@@ -756,6 +756,12 @@ textarea.form-control {
     font-family: $font-secondary;
   }
 
+  h4 {
+	font-family: $font-secondary;
+	font-size: 50%;
+	color: $darken;
+  }
+
   .img {
     display: block;
     width: 100%;
